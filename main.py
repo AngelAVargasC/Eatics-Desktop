@@ -3,6 +3,11 @@ import sqlite3
 from PIL import Image, ImageTk
 from tkinter import messagebox, ttk
 import customtkinter as ctk
+https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_
+key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload&code_challenge=26tmoW9wy9-BqQJolw0rXgsok5rHvZDrUN_n7ONGWaM&code_challenge_method=S256&state=N2yYt8M0uHHlguC
+1tZ-WjG63d1mst48aDaRFtNgFP5I
+
+
 
 def main():
     ventana_principal = tk.Tk()
